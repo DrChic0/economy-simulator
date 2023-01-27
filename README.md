@@ -1,5 +1,5 @@
 BEFORE YOU DO ANYTHING UNZIP ALL THE ZIPPED FOLDERS IN THE SERVICES DIRECTORY
-YOUR SERVICES DIRECTORY SHOULD LOOK IIKE THIS AFTER ITS UNZIPPED
+YOUR SERVICES DIRECTORY SHOULD LOOK LIKE THIS AFTER ITS UNZIPPED
 https://github.com/DrChic0/economy-simulator/blob/main/Screenshot%202023-01-27%20114716.png?raw=true
 
 This is the source code as of December 15, 2022. Some parts have been removed due to them being irrelevant to most people (e.g. a deployment program). Although it's easy to get the basics up and running, you will probably have to make many changes for it to be completely functional.
